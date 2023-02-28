@@ -1,0 +1,6 @@
+Cop Costume Set,Cartmax,$15,47
+Formal Suite,Megaplex,$14.5,30
+Fairy Costume Set,DollarSmart,$18,10
+Mermaid Tail,CartMax,$20,25
+Bunny Costume Set,DollarSmart,$35,42
+Batman Costume,Megaplex,$15,40
